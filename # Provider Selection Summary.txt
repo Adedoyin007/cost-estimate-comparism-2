@@ -1,0 +1,13 @@
+# Provider Selection Summary
+
+For this project, Amazon Web Services (AWS) is recommended as the preferred cloud provider for a Linux-based startup. The decision is based on cost efficiency, compatibility with open-source technologies, and the estimated monthly expenses generated using the AWS Pricing Calculator.
+
+The pricing analysis showed that a Linux-based Amazon EC2 t4g.nano instance combined with Amazon S3 Standard Storage would cost approximately $3.25 per month, resulting in an estimated annual cost of $39.00. This low operational cost makes AWS particularly attractive for startups and small businesses that need to minimize infrastructure expenses while maintaining scalability and reliability.
+
+AWS has a strong reputation for supporting Linux workloads and provides a wide range of services that integrate seamlessly with popular open-source technologies such as Ubuntu, Nginx, Docker, Kubernetes, and PostgreSQL. As a result, startups can build, deploy, and scale applications without incurring additional licensing costs associated with proprietary operating systems.
+
+In addition to its competitive pricing, AWS offers several cost optimization mechanisms, including Savings Plans, Reserved Instances, and lifecycle policies for storage services. These options allow organizations to further reduce costs as their workloads grow. AWS also provides extensive documentation, automation tools, and global infrastructure, enabling startups to expand into new markets without significant changes to their architecture.
+
+While Microsoft Azure is an excellent choice for organizations heavily invested in Microsoft technologies such as Windows Server, Active Directory, and Microsoft 365, the specific business scenario considered in this report favors a Linux-based environment. Therefore, AWS represents the most cost-effective and operationally suitable solution.
+
+Based on the pricing estimates, service capabilities, and business requirements analyzed in this project, AWS is the recommended cloud platform for a Linux-focused startup seeking a scalable, reliable, and budget-friendly cloud infrastructure.
